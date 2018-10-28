@@ -1,0 +1,62 @@
+body{
+    column-count: 3;
+}
+body{
+    font-family: "Lohit Odia";
+    font-weight: bold;
+    font-size: 24px;
+    text-align: center;
+    background: #232b2f;
+    color: #cdcecf;
+}
+.white {
+    color: #568ce2;
+    font-weight: bold;
+    font-size: 28px;
+}
+h1{
+    color: #006ed6;
+}
+p{
+    color: #568ce2;
+}
+.orange {
+    color: #e29c56;
+    font-weight: bold;
+    font-size: 28px;
+}
+h2{
+    color: #f97c00;
+}
+p1{
+    color: #e29c56;
+}
+.green {
+    color: #70dd68;
+    font-weight: bold;
+    font-size: 28px;
+}
+h3{
+    color: #0aa000;
+}
+p2{
+    color: #70dd68;
+}
+.begin{
+    color: #cdcecf;
+    font-size: 28px
+}
+.begin{
+    position: absolute;
+    top: 70%;
+    left: 45%;
+}
+.kom{
+    color: #cdcecf;
+    font-size: 28px
+}
+.kom{
+    position: absolute;
+    top: 65%;
+    left: 37%;
+}

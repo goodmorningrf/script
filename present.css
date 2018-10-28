@@ -1,0 +1,46 @@
+body{
+    font-family: "Lohit Odia";
+    font-weight: bold;
+    font-size: 24px;
+    background: #232b2f;
+    color: #cdcecf;
+
+}
+.red{
+    color:#e55252;
+    font-weight: bold;
+    font-size: 28px;
+
+}
+.green{
+    color:#52e563;
+    font-size: 28px;
+}
+p1{
+    font-family: "Lohit Odia";
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 1;
+    margin-top: 1em;
+    margin-bottom: 0.5em;
+    color:black;
+    background-color: red;
+}
+.cer{
+    color: #f97c00;
+    font-size: 28px
+}
+.cer{
+    position: absolute;
+    top: 95%;
+    left: 80%;
+}
+.kom{
+    color: #568ce2;
+    font-size: 28px
+}
+.kom{
+    position: absolute;
+    top: 88%;
+    left: 80%;
+}
