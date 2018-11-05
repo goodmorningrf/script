@@ -2,8 +2,8 @@ body{
     font-family: "Lohit Odia";
     font-weight: bold;
     font-size: 24px;
-    background: #232b2f;
-    color: #cdcecf;
+    background: #ffc33d;
+    color: black;
 
 }
 .red{
@@ -43,4 +43,8 @@ p1{
     position: absolute;
     top: 88%;
     left: 80%;
+}
+.btn{
+    font-weight: bolder;
+    font-size: 24px;
 }
